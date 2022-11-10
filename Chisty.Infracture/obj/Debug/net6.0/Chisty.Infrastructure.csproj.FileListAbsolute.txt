@@ -1,0 +1,14 @@
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\bin\Debug\net6.0\Chisty.Infrastructure.exe
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\bin\Debug\net6.0\Chisty.Infrastructure.deps.json
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\bin\Debug\net6.0\Chisty.Infrastructure.runtimeconfig.json
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\bin\Debug\net6.0\Chisty.Infrastructure.dll
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\bin\Debug\net6.0\ref\Chisty.Infrastructure.dll
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\bin\Debug\net6.0\Chisty.Infrastructure.pdb
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\obj\Debug\net6.0\Chisty.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\obj\Debug\net6.0\Chisty.Infrastructure.AssemblyInfoInputs.cache
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\obj\Debug\net6.0\Chisty.Infrastructure.AssemblyInfo.cs
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\obj\Debug\net6.0\Chisty.Infrastructure.csproj.CoreCompileInputs.cache
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\obj\Debug\net6.0\Chisty.Infrastructure.dll
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\obj\Debug\net6.0\ref\Chisty.Infrastructure.dll
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\obj\Debug\net6.0\Chisty.Infrastructure.pdb
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.Infracture\obj\Debug\net6.0\Chisty.Infrastructure.genruntimeconfig.cache

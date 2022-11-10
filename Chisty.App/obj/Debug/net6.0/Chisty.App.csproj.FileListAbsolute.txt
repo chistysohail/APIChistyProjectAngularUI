@@ -1,0 +1,15 @@
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\bin\Debug\net6.0\Chisty.App.exe
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\bin\Debug\net6.0\Chisty.App.deps.json
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\bin\Debug\net6.0\Chisty.App.runtimeconfig.json
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\bin\Debug\net6.0\Chisty.App.dll
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\bin\Debug\net6.0\ref\Chisty.App.dll
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\bin\Debug\net6.0\Chisty.App.pdb
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\obj\Debug\net6.0\Chisty.App.csproj.AssemblyReference.cache
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\obj\Debug\net6.0\Chisty.App.GeneratedMSBuildEditorConfig.editorconfig
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\obj\Debug\net6.0\Chisty.App.AssemblyInfoInputs.cache
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\obj\Debug\net6.0\Chisty.App.AssemblyInfo.cs
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\obj\Debug\net6.0\Chisty.App.csproj.CoreCompileInputs.cache
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\obj\Debug\net6.0\Chisty.App.dll
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\obj\Debug\net6.0\ref\Chisty.App.dll
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\obj\Debug\net6.0\Chisty.App.pdb
+E:\APIChisty\APIChistyProjectAngularUI\Chisty.App\obj\Debug\net6.0\Chisty.App.genruntimeconfig.cache
