@@ -3,33 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisty.App", "Chisty.App\Chisty.App.csproj", "{60DF33CB-FED8-4C18-84E9-ACAE8A7AA681}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chisty.App", "Chisty.App\Chisty.App.csproj", "{60DF33CB-FED8-4C18-84E9-ACAE8A7AA681}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisty.App.Test", "Chisty.App.Test\Chisty.App.Test.csproj", "{48AAC032-342A-4B9F-9206-472A5C4C35DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chisty.App.Test", "Chisty.App.Test\Chisty.App.Test.csproj", "{48AAC032-342A-4B9F-9206-472A5C4C35DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisty.Infrastructure.Tests", "Chisty.Infrastructure.Test\Chisty.Infrastructure.Tests.csproj", "{89FC13B8-6714-4530-B4C0-5EC750A30C1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chisty.Infrastructure.Test", "Chisty.Infrastructure.Test\Chisty.Infrastructure.Test.csproj", "{89FC13B8-6714-4530-B4C0-5EC750A30C1F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{2FBA2087-8A18-4292-992D-72756726F178}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisty.Client.Test", "Chisty.Client.Test\Chisty.Client.Test.csproj", "{BFA0DF87-61AC-486B-BCE1-BBAFC7EC3A3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chisty.Client.Test", "Chisty.Client.Test\Chisty.Client.Test.csproj", "{BFA0DF87-61AC-486B-BCE1-BBAFC7EC3A3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisty.Maple.Db.Test", "Chisty.Maple.Db.Test\Chisty.Maple.Db.Test.csproj", "{05D000DC-8A31-462D-B68A-14F08C8733E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chisty.Maple.Db.Test", "Chisty.Maple.Db.Test\Chisty.Maple.Db.Test.csproj", "{05D000DC-8A31-462D-B68A-14F08C8733E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisty.Models.Test", "Chisty.Models.Test\Chisty.Models.Test.csproj", "{3DCDDF66-D325-4E82-86E9-72C95299DA77}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chisty.Models.Test", "Chisty.Models.Test\Chisty.Models.Test.csproj", "{3DCDDF66-D325-4E82-86E9-72C95299DA77}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisty.Services.Tests", "Chisty.Services.Tests\Chisty.Services.Tests.csproj", "{85058102-409A-42DB-9768-F5C90A60CF06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chisty.Services.Test", "Chisty.Services.Tests\Chisty.Services.Test.csproj", "{85058102-409A-42DB-9768-F5C90A60CF06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisty.Maple.Test", "Chisty.Maple.Test\Chisty.Maple.Test.csproj", "{092C81B3-B75F-431C-9DFD-423DE2A13E37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chisty.Maple.Test", "Chisty.Maple.Test\Chisty.Maple.Test.csproj", "{092C81B3-B75F-431C-9DFD-423DE2A13E37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisty.Models", "Chisty.Models\Chisty.Models.csproj", "{9BB63B81-EA7C-4943-914D-DA6F72E63175}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chisty.Models", "Chisty.Models\Chisty.Models.csproj", "{9BB63B81-EA7C-4943-914D-DA6F72E63175}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisty.Infrastructure", "Chisty.Infracture\Chisty.Infrastructure.csproj", "{92488632-D741-4352-9CFF-D281681096F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chisty.Infrastructure", "Chisty.Infracture\Chisty.Infrastructure.csproj", "{92488632-D741-4352-9CFF-D281681096F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisty.Client", "Chisty.Client\Chisty.Client.csproj", "{0DAD0F8B-8343-4505-8ABD-458AFD6A2271}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chisty.Client", "Chisty.Client\Chisty.Client.csproj", "{0DAD0F8B-8343-4505-8ABD-458AFD6A2271}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisty.Maple", "Chisty.Maple\Chisty.Maple.csproj", "{47BC869D-8DD5-4FC5-A992-DE229FAAC6B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chisty.Maple", "Chisty.Maple\Chisty.Maple.csproj", "{47BC869D-8DD5-4FC5-A992-DE229FAAC6B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chisty.Maple.Db", "Chisty.Maple.Db\Chisty.Maple.Db.csproj", "{64D99DF8-54AD-4AC0-9548-1D58C2215657}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chisty.Maple.Db", "Chisty.Maple.Db\Chisty.Maple.Db.csproj", "{64D99DF8-54AD-4AC0-9548-1D58C2215657}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

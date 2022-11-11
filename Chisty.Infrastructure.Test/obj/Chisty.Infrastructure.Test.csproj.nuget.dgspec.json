@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\aws lambda course example\\Chisty.App\\Chisty.Infrastructure.Test\\Chisty.Infrastructure.Test.csproj": {}
+    "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Infrastructure.Test\\Chisty.Infrastructure.Test.csproj": {}
   },
   "projects": {
-    "E:\\aws lambda course example\\Chisty.App\\Chisty.Infrastructure.Test\\Chisty.Infrastructure.Test.csproj": {
+    "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Infrastructure.Test\\Chisty.Infrastructure.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\aws lambda course example\\Chisty.App\\Chisty.Infrastructure.Test\\Chisty.Infrastructure.Test.csproj",
+        "projectUniqueName": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Infrastructure.Test\\Chisty.Infrastructure.Test.csproj",
         "projectName": "Chisty.Infrastructure.Test",
-        "projectPath": "E:\\aws lambda course example\\Chisty.App\\Chisty.Infrastructure.Test\\Chisty.Infrastructure.Test.csproj",
+        "projectPath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Infrastructure.Test\\Chisty.Infrastructure.Test.csproj",
         "packagesPath": "C:\\Users\\db\\.nuget\\packages\\",
-        "outputPath": "E:\\aws lambda course example\\Chisty.App\\Chisty.Infrastructure.Test\\obj\\",
+        "outputPath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Infrastructure.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eOqXeP59mH0HLaL/SZA0j2oXYny+0b+/JeA2MPGiKOtACqA4xQvLFqn7mPGChn8tHVZ8eXZKVsvkR8MIlrKYxg==",
+  "dgSpecHash": "XK4JdJPTKFaz2SV4zun8edEAlLX7zpScvAOJvkOiYqpTyzxkeZn8AiH85hubp017pOkGqTkj2Kt4y/G91yxnCg==",
   "success": true,
-  "projectFilePath": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Maple\\Chisty.Maple.csproj",
+  "projectFilePath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Maple\\Chisty.Maple.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\db\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\db\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

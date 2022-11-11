@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Models\\Chisty.Models.csproj": {}
+    "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Models\\Chisty.Models.csproj": {}
   },
   "projects": {
-    "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Models\\Chisty.Models.csproj": {
+    "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Models\\Chisty.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Models\\Chisty.Models.csproj",
+        "projectUniqueName": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Models\\Chisty.Models.csproj",
         "projectName": "Chisty.Models",
-        "projectPath": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Models\\Chisty.Models.csproj",
+        "projectPath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Models\\Chisty.Models.csproj",
         "packagesPath": "C:\\Users\\db\\.nuget\\packages\\",
-        "outputPath": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Models\\obj\\",
+        "outputPath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

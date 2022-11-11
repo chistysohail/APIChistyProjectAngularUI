@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Maple.Test\\Chisty.Maple.Test.csproj": {}
+    "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Maple.Test\\Chisty.Maple.Test.csproj": {}
   },
   "projects": {
-    "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Maple.Test\\Chisty.Maple.Test.csproj": {
+    "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Maple.Test\\Chisty.Maple.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Maple.Test\\Chisty.Maple.Test.csproj",
+        "projectUniqueName": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Maple.Test\\Chisty.Maple.Test.csproj",
         "projectName": "Chisty.Maple.Test",
-        "projectPath": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Maple.Test\\Chisty.Maple.Test.csproj",
+        "projectPath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Maple.Test\\Chisty.Maple.Test.csproj",
         "packagesPath": "C:\\Users\\db\\.nuget\\packages\\",
-        "outputPath": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Maple.Test\\obj\\",
+        "outputPath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Maple.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

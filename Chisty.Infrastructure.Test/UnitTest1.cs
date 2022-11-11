@@ -1,4 +1,4 @@
-namespace Chisty.Infrastructure.Tests
+namespace Chisty.Infrastructure.Test
 {
     public class UnitTest1
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cLrTxSv4urcdEA/f7/ua329CYdd87UtmQvdzLPxfCiBwji6hQmrI7lq76PwZn8Wk2J8KeM/QcBLcy++fDtB1nQ==",
+  "dgSpecHash": "JBRvdGLH6AfQSwb4unXjQQmDMfvNRA2KTnsHvkLkkP3w/7dbhCrrDuJuksFk8yXYiqpvdLVLhL5K2hn9XUZSEQ==",
   "success": true,
-  "projectFilePath": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Infrastructure.Test\\Chisty.Infrastructure.Tests.csproj",
+  "projectFilePath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Infrastructure.Test\\Chisty.Infrastructure.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\db\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\db\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

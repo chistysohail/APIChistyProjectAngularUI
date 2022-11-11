@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qZNdpAT+YSJfjUA9pSSAYe0VXWbsIiN88sDdfZNnUwy55lAIMATQrmNlBpYH0dPXS2M75A3I7ipXq7gVkJ/2wg==",
+  "dgSpecHash": "9kiOhE7mDkJhhprfFpS7Tq8FwRu6Wrp/AZNRVXYpN7Q7JVi88+lXUNIOV5Ak9OgsAhcE3pTzqYxJRbunL0XIug==",
   "success": true,
-  "projectFilePath": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Infracture\\Chisty.Infrastructure.csproj",
+  "projectFilePath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Infracture\\Chisty.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

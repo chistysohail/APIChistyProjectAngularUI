@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Infracture\\Chisty.Infrastructure.csproj",
+      "projectUniqueName": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Infracture\\Chisty.Infrastructure.csproj",
       "projectName": "Chisty.Infrastructure",
-      "projectPath": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Infracture\\Chisty.Infrastructure.csproj",
+      "projectPath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Infracture\\Chisty.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\db\\.nuget\\packages\\",
-      "outputPath": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Infracture\\obj\\",
+      "outputPath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Infracture\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

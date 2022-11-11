@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lygZKhZ9an3fyfiPvYu2oN5BKjwVt+JTQ5QLylkYq3HbrZ97ueaZTeoN3Gs/XeTPREFVU90lfl1GZg202HX3ZA==",
+  "dgSpecHash": "apW8CrvdgO57aivMprEzHkof80gxOhF6/qIlzTtSUaWtSbkLQp9ZzdeYTKlOpgpDODqk6Q7WJV8b87f+UyG0wg==",
   "success": true,
-  "projectFilePath": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Maple.Db\\Chisty.Maple.Db.csproj",
+  "projectFilePath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Maple.Db\\Chisty.Maple.Db.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Maple.Db\\Chisty.Maple.Db.csproj": {}
+    "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Maple.Db\\Chisty.Maple.Db.csproj": {}
   },
   "projects": {
-    "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Maple.Db\\Chisty.Maple.Db.csproj": {
+    "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Maple.Db\\Chisty.Maple.Db.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Maple.Db\\Chisty.Maple.Db.csproj",
+        "projectUniqueName": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Maple.Db\\Chisty.Maple.Db.csproj",
         "projectName": "Chisty.Maple.Db",
-        "projectPath": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Maple.Db\\Chisty.Maple.Db.csproj",
+        "projectPath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Maple.Db\\Chisty.Maple.Db.csproj",
         "packagesPath": "C:\\Users\\db\\.nuget\\packages\\",
-        "outputPath": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Maple.Db\\obj\\",
+        "outputPath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Maple.Db\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

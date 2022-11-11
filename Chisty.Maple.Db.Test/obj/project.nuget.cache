@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wWnlCz+TYDn77pZpx0+bEqzWv4+CreOaAyab7doQTIlhwlJLY8PnjNTWQr8uBPvPra7c+zz/MHTK3dWWHL1nWg==",
+  "dgSpecHash": "EDDlCOD33j8hD0ti1RrTixTMJ1K0qfMMa4FyiWQSi0nzTElTvIN33n+yB0AC7yrhEsx2IFimXbSZpns8BumiNg==",
   "success": true,
-  "projectFilePath": "E:\\APIChisty\\APIChistyProjectAngularUI\\Chisty.Maple.Db.Test\\Chisty.Maple.Db.Test.csproj",
+  "projectFilePath": "E:\\ChistyAPI2\\APIChistyProjectAngularUI\\Chisty.Maple.Db.Test\\Chisty.Maple.Db.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\db\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\db\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
